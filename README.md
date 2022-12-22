@@ -1,6 +1,6 @@
 ### Hey there, wecome! 👋
 
-I'm a Senior IT Consultant currently working at John Deere.
+I'm currently working as a Sr. DevSecOps at ADP.
 
 You can find me at Linkedin - [https://www.linkedin.com/in/daniel-szortyka](https://www.linkedin.com/in/daniel-szortyka).
 
@@ -10,6 +10,7 @@ You can find me at Linkedin - [https://www.linkedin.com/in/daniel-szortyka](http
 
 - Linux SysAdmin (a whole life using it personally or professionally)
 - Python Development
+- SAST/DAST scanners and tools
 - Bash and PowerShell scripting
 - Architect and build AWS cloud infrastructure using Terraform (Databases, APIs, CloudFront, Route53, EC2, Networking)
 - Monitoring and observability (Datadog, New Relic, Zabbix)
@@ -29,6 +30,7 @@ You can find me at Linkedin - [https://www.linkedin.com/in/daniel-szortyka](http
 ### Main Interests 
 
 - DevOps
+- DevSecOps
 - SRE
 
 
